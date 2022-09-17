@@ -1,5 +1,5 @@
 ## Bulls And Cows
-*Created as an exercise during SoftUni fundamental course: Sep-2022*<br>
+*Created as an exercise during SoftUni basic course: Apr-2022*<br>
 <sub>*Main idea of the whole project is to exercise with Git, GitHub, and python fundamentals*</sub><br>
 <br>
 Source File: <br>
