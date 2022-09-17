@@ -1,6 +1,6 @@
 ## Bulls And Cows
 *Created as an exercise during SoftUni basic course: Apr-2022*<br>
-<sub>*Main idea of the whole project is to exercise with Git, GitHub, and python fundamentals*</sub><br>
+<sub>*Main idea of the whole project is to exercise with Git, GitHub, and python basics*</sub><br>
 <br>
 Source File: https://github.com/waysbg/Bulls_And_Cows/blob/main/Bulls_Cows.py<br>
 <br><br>
